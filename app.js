@@ -1,0 +1,1 @@
+import { IfcViewerAPI } from 'web-ifc-viewer';

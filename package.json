@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-ifcjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^3.5.1"
+  },
+  "dependencies": {
+    "@rollup/plugin-node-resolve": "^15.0.1",
+    "web-ifc-viewer": "^1.0.213"
+  }
+}
